@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 61.24 66.84">
+  <defs>
+    <style>
+      .strkip-1 {
+        fill: transparent;
+        stroke: currentColor;
+        stroke-width: 0.5px;
+		opacity: 0.25;
+      }
+    </style>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer_1">
+    <path class="strkip-1" d="M31.07,24.57l6-6,5.6,5.6,6.05-6.05,6.4,6.4,6.1-6.1V0H0l12.41,12.41v54.44h48.71v-11.73l-5.7,5.7-6.22-6.22-6.4,6.4-5.87-5.87-5.83,5.83-6.33-6.33V18.26l6.3,6.3ZM30.62,7.13c2.16,0,3.9,1.75,3.9,3.9s-1.75,3.9-3.9,3.9-3.9-1.75-3.9-3.9,1.75-3.9,3.9-3.9Z"/>
+  </g>
+</svg>

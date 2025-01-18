@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 234.26 26.13">
+  <defs>
+    <style>
+      .zigzag-1 {
+        fill: none;
+        stroke: currentColor;
+        stroke-linecap: butt;
+        stroke-linejoin: miter;
+        stroke-width: 2px;
+      }
+    </style>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer_1">
+    <path class="zigzag-1" d="M1.5,1.5l23.13,23.13L47.75,1.5l23.13,23.13L94.01,1.5l23.12,23.13L140.26,1.5l23.13,23.13L186.51,1.5l23.13,23.13L232.76,1.5"/>
+  </g>
+</svg>
